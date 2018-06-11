@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/*
+* Самые легкие и быстрые вкладки
+* минимум кода, максимум функционала
+*
+* автор: @dobrovoi dbmast.ru
+*/ 
+
+/* Стили для табов-вкладок */
+.tabs_block {
+  position: relative;
+}
+.kru{
+     position: absolute;
+    z-index: -1;
+        top: 60px;
+   
+}
+
+.tabs_block:after {
+    content:"";
+    display:block;
+    clear:both;
+}
+/* панель навигации вкладок */
+.tabs {
+   text-align: center;
+}
+/* список вкладок */
+.tabs li {
+    cursor: pointer;
+     color: #000; 
+    text-align: center;
+    outline: none;
+    background: #f9fafb;
+   font-weight: bold;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 11px;
+    text-transform: uppercase;
+    line-height: 40px;
+    width: 15.85%;
+    transition-duration: 300ms;
+}
+/* активная вкладка */
+.tabs li.active {
+    background:#88a6ed;
+    color:#fff; 
+}
+/* блоки вкладок с содержанием */
+.box {
+   margin-top: 70px;
+    margin-bottom: 70px;
+    width:96%;
+    padding:5px 2% 6px;
+    display:none;
+    text-align: left;
+    
+}
+
+/* активный блок при загрузке */
+.visible, .open_tab {
+    display: block;
+}
+
+/* убираем выравнивание на маленьких экранах */
+@media (max-width: 300px) {
+  .tabs, .tabs li {
+   float: none;
+  }
+}

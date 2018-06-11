@@ -1,0 +1,617 @@
+@media screen and (min-width: 900px) and (max-width: 1150px) {
+    
+   .wrapper {
+    width: 90%;
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.wrapper:after {
+    content: " ";
+    height: 1px;
+    display: block;
+    width: 100%;
+    clear: both;
+} 
+ .back-form {
+    
+    margin: 120px 0px 0px 25%;
+}   
+  .class-1 {
+   
+    width: 95%;
+   
+} 
+ .block-6 ul li {
+    width: 29%;
+    
+} 
+    .block-6 {
+    text-align: center;
+}
+    .block-7 {
+    text-align: center;
+}
+  .price-table {
+    width: 45%;
+    margin-bottom: 30px;
+      text-align: center;
+}  
+    
+ .sli-links {
+   
+    margin-left: 89%;
+    
+}   
+.footer-left {
+    width: 95%;
+    /* display: inline-block; */
+}    
+.footer-center {
+    width: 19.09%;
+    margin-left: 0px;
+     display: block; 
+    vertical-align: top;
+    padding-top: 35px;
+}    
+.footer-right {
+    margin-left: 0px;
+    /* display: inline-block; */
+    vertical-align: top;
+}    
+ .footer-center .address p {
+   
+    width: 70%;
+    
+} 
+    #slider {
+  
+    height: 260px;
+    
+}
+}
+@media screen and (min-width: 1290px) and (max-width: 1320px) {
+.sli-links {
+   
+    margin-left: 93%;
+    
+}  
+}
+@media screen and (min-width: 1265px) and (max-width: 1289px) {
+.sli-links {
+   
+    margin-left: 92%;
+    
+}  
+}
+@media screen and (min-width: 1240px) and (max-width: 1265px) {
+.sli-links {
+   
+    margin-left: 92%;
+    
+} 
+   #slider-wrap {
+    width: 95%;
+    
+}
+}
+@media screen and (min-width: 1150px) and (max-width: 1265px) {
+.sli-links {
+   
+    margin-left: 92%;
+    
+} 
+   #slider-wrap {
+    width: 80%;
+    
+}
+     .block-6 {
+    text-align: center;
+}
+    .block-7 {
+    text-align: center;
+}
+  .price-table {
+    width: 45%;
+    margin-bottom: 30px;
+      text-align: center;
+}  
+    
+ .block-6 ul li {
+    width: 29%;
+    
+} 
+  
+}
+
+@media screen and (min-width: 876px) and (max-width: 900px) {
+.sli-links {
+   
+    margin-left: 90%;
+    
+} 
+   #slider-wrap {
+    width: 95%;
+    
+}
+}
+/*@media screen and (min-width: 850px) and (max-width: 876px) {
+.sli-links {
+   
+    margin-left: 89%;
+    
+} 
+   #slider-wrap {
+    width: 95%;
+    
+}
+}
+@media screen and (min-width: 825px) and (max-width: 850px) {
+.sli-links {
+   
+    margin-left: 89%;
+    
+} 
+   #slider-wrap {
+    width: 95%;
+    
+}
+    
+}*/
+@media screen and (min-width: 800px) and (max-width: 900px) {
+    
+   .wrapper {
+    width: 90%;
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.wrapper:after {
+    content: " ";
+    height: 1px;
+    display: block;
+    width: 100%;
+    clear: both;
+} 
+    
+ .back-form {
+    
+    margin: 120px 0px 0px 20%;
+}  
+    .block-8 {
+    display: none;
+}
+  .class-1 {
+   
+    width: 95%;
+   
+} 
+ .block-6 ul li {
+    width: 29%;
+    
+} 
+    .block-6 {
+    text-align: center;
+}
+    .block-7 {
+    text-align: center;
+}
+  .price-table {
+    width: 45%;
+    margin-bottom: 30px;
+      text-align: center;
+}  
+    
+   
+.footer-left {
+    width: 95%;
+    /* display: inline-block; */
+}    
+.footer-center {
+    width: 19.09%;
+    margin-left: 0px;
+     display: block; 
+    vertical-align: top;
+    padding-top: 35px;
+}    
+.footer-right {
+    margin-left: 0px;
+    /* display: inline-block; */
+    vertical-align: top;
+}    
+ .footer-center .address p {
+   
+    width: 70%;
+    
+} 
+    #slider {
+  
+    height: 260px;
+    
+}
+    
+    
+}
+
+
+
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+    
+   .wrapper {
+    width: 95%;
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.wrapper:after {
+    content: " ";
+    height: 1px;
+    display: block;
+    width: 100%;
+    clear: both;
+} 
+    
+ .back-form {
+    
+    margin: 120px 0px 0px 50%;
+}  
+    .block-8 {
+    display: none;
+}
+  .class-1 {
+   
+    width: 95%;
+   
+} 
+ .block-6 ul li {
+    width: 29%;
+    
+} 
+    .block-6 {
+    text-align: center;
+}
+    .block-7 {
+    text-align: center;
+}
+  .price-table {
+    width: 45%;
+    margin-bottom: 30px;
+      text-align: center;
+}  
+    
+   
+.footer-left {
+    width: 95%;
+    /* display: inline-block; */
+}    
+.footer-center {
+    width: 19.09%;
+    margin-left: 0px;
+     display: block; 
+    vertical-align: top;
+    padding-top: 35px;
+}    
+.footer-right {
+    margin-left: 0px;
+    /* display: inline-block; */
+    vertical-align: top;
+}    
+ .footer-center .address p {
+   
+    width: 70%;
+    
+} 
+    #slider {
+  
+    height: 260px;
+    
+}
+ .block-2 .block-2right {
+   
+    width: 95%;
+    padding-top: 40px;
+}   
+  .block-2 {
+    background: #fff url(../img/Rectang.png) center;
+    vertical-align: top;
+    background-size: cover;
+    width: 100%;
+    position: relative;
+     height: inherit; 
+    margin-top: 100px;
+    padding-bottom: 150px;
+} 
+    .left {
+    float: left;
+    width: 40%;
+    text-align: center;
+     line-height: 30px;
+}
+    .right {
+     text-align: center;
+         line-height: 30px;
+}
+}
+
+
+
+@media screen and (min-width: 400px) and (max-width: 500px) {
+    
+   .wrapper {
+    width: 98%;
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.wrapper:after {
+    content: " ";
+    height: 1px;
+    display: block;
+    width: 100%;
+    clear: both;
+} 
+    
+ .back-form {
+    
+    margin: 170px 0px 0px 20%;
+}  
+    .block-8 {
+    display: none;
+}
+  .class-1 {
+   
+    width: 95%;
+   
+} 
+ .block-6 ul li {
+    width: 29%;
+    
+} 
+    .block-6 {
+    text-align: center;
+}
+    .block-7 {
+    text-align: center;
+}
+  .price-table {
+    width: 75%;
+    margin-bottom: 30px;
+      text-align: center;
+}  
+  .block-6 ul li {
+    width: 50%;
+    display: inline-block;
+    text-align: center;
+    margin-right: 30px;
+    padding-bottom: 50px;
+    vertical-align: top;
+}  
+   
+.footer-left {
+    width: 95%;
+    /* display: inline-block; */
+}    
+.footer-center {
+    width: 75%;
+    margin-left: 0px;
+     display: block; 
+    vertical-align: top;
+    padding-top: 35px;
+}    
+.footer-right {
+    margin-left: 0px;
+    /* display: inline-block; */
+    vertical-align: top;
+}    
+ .footer-center .address p {
+   
+    width: 70%;
+    
+} 
+    #slider {
+  
+    height: 260px;
+    
+}
+ .block-2 .block-2right {
+   
+    width: 95%;
+    padding-top: 40px;
+}   
+  .block-2 {
+    background: #fff url(../img/Rectang.png) center;
+    vertical-align: top;
+    background-size: cover;
+    width: 100%;
+    position: relative;
+     height: inherit; 
+    margin-top: 100px;
+    padding-bottom: 150px;
+} 
+    .left {
+    float: left;
+    width: 40%;
+    text-align: center;
+    line-height: 70px;
+         line-height: 30px;
+}
+    .right {
+     text-align: center;
+         line-height: 30px;
+}
+    .class-1 img {
+    /* float: left; */
+    width: 100%;
+    
+}
+    .class-1 h3 {
+    margin-left: 0px;
+    
+}
+    .class-1 h4 {
+    margin-left: 0px;
+    
+}
+    .class-1 h5 {
+    margin: 0 0px 0px 0px;
+    
+}
+    .block-5-left {
+    width: 95%;
+     float: none; 
+}
+    .block-5-right {
+    width: 80%;
+    float: none;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 320px) and (max-width: 400px) {
+    
+   .wrapper {
+    width: 98%;
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.wrapper:after {
+    content: " ";
+    height: 1px;
+    display: block;
+    width: 100%;
+    clear: both;
+} 
+    
+ .back-form {
+    
+    margin: 170px 0px 0px 4%;
+}  
+    .block-8 {
+    display: none;
+}
+  .class-1 {
+   
+    width: 95%;
+   
+} 
+ .block-6 ul li {
+    width: 29%;
+    
+} 
+    .block-6 {
+    text-align: center;
+}
+    .block-7 {
+    text-align: center;
+}
+  .price-table {
+    width: 75%;
+    margin-bottom: 30px;
+      text-align: center;
+}  
+  .block-6 ul li {
+    width: 50%;
+    display: inline-block;
+    text-align: center;
+    margin-right: 30px;
+    padding-bottom: 50px;
+    vertical-align: top;
+}  
+   
+.footer-left {
+    width: 95%;
+    /* display: inline-block; */
+}    
+.footer-center {
+    width: 75%;
+    margin-left: 0px;
+     display: block; 
+    vertical-align: top;
+    padding-top: 35px;
+}    
+.footer-right {
+    margin-left: 0px;
+    /* display: inline-block; */
+    vertical-align: top;
+}    
+ .footer-center .address p {
+   
+    width: 70%;
+    
+} 
+    #slider {
+  
+    height: 260px;
+    
+}
+ .block-2 .block-2right {
+   
+    width: 95%;
+    padding-top: 40px;
+}   
+  .block-2 {
+    background: #fff url(../img/Rectang.png) center;
+    vertical-align: top;
+    background-size: cover;
+    width: 100%;
+    position: relative;
+     height: inherit; 
+    margin-top: 100px;
+    padding-bottom: 150px;
+} 
+    .left {
+    float: left;
+    width: 40%;
+    text-align: center;
+    line-height: 30px;
+}
+    .right {
+     text-align: center;
+        line-height: 30px;
+}
+    .class-1 img {
+    /* float: left; */
+    width: 100%;
+    
+}
+    .class-1 h3 {
+    margin-left: 0px;
+    
+}
+    .class-1 h4 {
+    margin-left: 0px;
+    
+}
+    .class-1 h5 {
+    margin: 0 0px 0px 0px;
+    
+}
+    .block-5-left {
+    width: 95%;
+     float: none; 
+}
+    .block-5-right {
+    width: 80%;
+    float: none;
+}
+}

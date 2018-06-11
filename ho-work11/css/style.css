@@ -1,0 +1,373 @@
+.HDR{
+   background: #fff url(../img/Layer.png) center;
+    vertical-align: top;
+    background-size: cover; 
+    height: 57em;
+}
+
+.Logo{
+    background: #000000;
+    height: 275px;
+    width: 275px;
+    border-radius: 200px;
+    margin-top:  65px;
+}
+.Logo img{
+    margin-top: 30%;
+}
+.HDR h1{
+    color: #fff;
+   padding-top: 50px;
+  font-size: 49.35px;
+ text-align: center;
+
+  text-transform: uppercase;
+  padding-bottom: 50px;
+}
+.Call{
+    background: #fff;
+    height: 335px;
+    width: 335px;
+    margin: 0 auto;
+    border-radius: 5px;
+    box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.1);
+}
+.form-control {
+    display: block;
+    width: 75%;
+    height: 40px;
+   
+    margin: 0 auto;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.428571;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+.form-signin {
+        max-width: 334px;
+    padding: 25px 0 20px 0;
+    margin: 0 auto;
+    background: #fff;
+border-radius: 5px;
+   
+    box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.1);
+    border: 1px #ebebeb solid;
+}
+@media screen and (min-width: 320px) and (max-width: 767px){
+   .pagi{
+    margin-top: -36%;
+    margin-bottom: 50px; 
+}
+
+}
+div .pop{
+    width: 67px;
+    height: 45px;
+    margin-right: -4px;
+}
+
+form div{
+    padding-top: 25px;
+}
+.Call-p{
+  color: #938e8e;
+    padding: 20px 45px;
+    text-align: center;
+    
+}
+
+@media screen and (min-width: 450px) and (max-width: 535px){
+    .col-ss{
+        margin-left: 28%;
+    }
+}
+@media screen and (min-width: 380px) and (max-width: 450px){
+    .col-ss{
+        margin-left: 20%;
+    }
+}
+@media screen and (min-width: 345px) and (max-width: 380px){
+    .col-ss{
+        
+        margin-left: 15%;
+    }
+}
+@media screen and (min-width: 310px) and (max-width: 345px){
+    .col-ss{
+        margin-left: 8%;
+    }
+}
+@media (min-width: 1200px){
+    .col-lg-offset-44 {
+    margin-left: 39.33333333%;
+}
+    
+    
+}
+#svg1{
+   float: left; 
+}
+#svg2{
+   float: left; 
+}
+.h3-svg{
+   
+ font-size: 27.35px;
+    font-weight: bold;
+    color: #000;
+    line-height: 45px;
+   
+    margin: 0 0 0 135px;
+    vertical-align: top;
+}
+.h4-svg{
+   
+      font-size: 14px;
+    color: #4f4e4e;
+    line-height: 25px;
+    text-align: left;
+   
+    margin: 0 0 0 130px;
+    
+    width: 50%;
+   
+}
+#btn-block {
+    display: block;
+    width: 60%;
+    margin: 0 auto;
+}
+.btn-group-lg>.btn, .btn-lg {
+   
+    font-size: 22px;
+
+}
+
+
+.Sec1{
+    position: relative;
+    
+ background: rgb(68, 163, 111);
+background: -webkit-linear-gradient(345deg, rgb(68, 163, 111) 52%, rgb(95, 193, 139) 0%);
+background: -o-linear-gradient(345deg, rgb(68, 163, 111) 52%, rgb(95, 193, 139) 0%);
+background: -ms-linear-gradient(345deg, rgb(68, 163, 111) 52%, rgb(95, 193, 139) 0%);
+background: linear-gradient(345deg, rgb(68, 163, 111) 52%, rgb(95, 193, 139) 0%);
+}
+.text{
+   
+        margin-top: -24%;
+}
+.text h1{
+  
+  font-size: 39.35px;
+  
+  color: rgb(255, 255, 255);
+ margin: 0;
+  text-align: center;
+  
+}
+.text p{
+  
+ padding: 20px 0;
+  font-size: 14px;
+  
+  color: #eaf7f0;
+  
+  text-align: left;
+ 
+
+ 
+  
+}
+
+.sec2{
+    padding-top: 305px;
+}
+.sec2 h2{
+  
+  font-size: 35px;
+ 
+  color: rgb(255, 255, 255);
+ margin: 0;
+  text-align: left;
+  padding:0 45px ;
+
+}
+.sec2 p{
+   padding:0 45px ;
+  font-size: 14px;
+  line-height: 20px;
+  color: rgb(255, 255, 255);
+  
+  text-align: left;
+  
+
+}
+.btn{
+        margin: 30px 0 0 0;
+    border: 2px solid transparent;
+}
+.btn-success {
+    color: #fff;
+    background-color: #44a36f;
+    border-radius: 10px;
+    border-color: #fff;
+       
+}
+.btn-group-lg>.btn, .btn-lg {
+    padding: 6px 30px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+       
+}
+.maps{
+    background: #f4f3f0;
+}
+
+.maps .Contact{
+       /* width: 30%;
+    height: 320px;*/
+         margin-top: -42%;
+    /* margin-left: 0%; */
+    padding-left: 32%;
+  
+}
+
+
+.form1{
+          margin: -42% 0 0 8%;
+    max-width: 320px;
+}
+.input-contact {
+    width: 100%;
+    padding: 6px 12px 6px 20px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 2px solid #f2f2f2;
+    border-radius: 10px;
+    color: #b2b2b2;
+    outline: none;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.form1 textarea {
+    width: 100%;
+   
+    box-sizing: border-box;
+    border: 2px solid #f2f2f2;
+    border-radius: 10px;
+    color: #b2b2b2;
+    outline: none;
+    font-size: 14px;
+    margin-top: 10px;
+    padding: 15px 14px 1px 20px;
+    text-align: left;
+    color: #b2b2b2;
+    font-family: 'GothamPro';
+    font-size: 14px;
+    margin: 0 0 34px 0;
+}
+
+.botton16 {
+    width: 65px;
+    height: 65px;
+    background: #43a06d;
+    color: #fff;
+    border-radius: 100px;
+    
+    border: none;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+   
+}
+.glyphicon {
+        line-height: 65px;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer-bottom {
+    background-color: #43a06d;
+    padding: 10px 0;
+}
+
+.footer-bottom p {
+   color: #fff;
+    text-align: center;
+    margin: 0;
+}
+@media screen and (min-width: 992px) and (max-width: 1200px)
+{
+      .maps .Contact {
+    margin-top: -54%;
+    /* margin-left: 0%; */
+    padding-left: 32%;
+}
+    .form1 {
+    margin: -51% 0 0 10%;
+    max-width: 320px;
+}
+}
+@media screen and (min-width: 750px) and (max-width: 992px)
+{
+      .maps .Contact {
+    margin-top: -74%;
+    /* margin-left: 0%; */
+    padding-left: 32%;
+}
+    .form1 {
+       margin: -66% 0 0 12%;
+    max-width: 320px;
+}
+}
+@media screen and (min-width: 490px) and (max-width: 750px){
+    #yo1{
+        display: none;
+    }
+    .maps .Contact {
+    margin-top: -72%;
+    /* margin-left: 0%; */
+    padding-left: 25%;
+}
+    .form1 {
+                 margin: 103% 0 30px 0;
+    max-width: 320px;
+}
+    
+}
+@media screen and (min-width: 320px) and (max-width: 490px){
+    #yo1{
+        display: none;
+    }
+    .maps .Contact {
+    margin-top: -72%;
+    /* margin-left: 0%; */
+    padding-left: 16%;
+}
+    .form1 {
+                 margin: 103% 0 30px 0;
+    max-width: 320px;
+}
+    
+}

@@ -1,0 +1,638 @@
+@media screen and (max-width: 390px) {
+    .progg .wrapp {
+   
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding-top: 10px;
+    position: relative;
+    z-index: 10;
+    vertical-align: top;
+}
+    .wrapper {
+        width: 97%;
+        padding: 0;
+        margin: 0 auto;
+    }
+    .wrapp {
+        width: 97%;
+       padding: 0;
+        margin: 0 auto;
+    }
+    .types ul {
+    /* list-style: none outside none; */
+    width: 98%;
+        padding: 0;
+        text-align: center;
+}
+    .types2 ul {
+    list-style: none outside none;
+    width: 98%;
+        padding: 0;
+         text-align: center;
+}
+    .nat-f {
+        display: none;
+    }
+    .types2 li p {
+        width: 100%;
+        margin: 0 auto;
+        font-size: 15px;
+        font-family: "RobotoLight";
+        color: rgb(51, 51, 51);
+        line-height: 1.556;
+        text-align: left;
+    }
+    .types li p {
+        width: 100%;
+        margin: 0 auto;
+        font-size: 15px;
+        font-family: "RobotoLight";
+        color: rgb(51, 51, 51);
+        line-height: 1.556;
+       
+    }
+    .types li {
+    display: inline-block;
+    width: 49.333333%;
+    margin-left: -6px;
+        text-align: center;
+}
+    .feed-left {
+        display: block;
+        width: 97%;
+        margin-right: 2%;
+       
+    }
+    .feed-right {
+        display: block;
+        width: 93%;
+        margin-left: 10%;
+        padding-top: 50px;
+    }
+    .preims .preimss {
+    width: 30%;
+    list-style-type: none;
+    margin-left: -15px;
+}
+    .types2 li {
+   padding-top: 10px;
+    width: 49%;
+    margin-left: -6px;
+    list-style: none outside none;
+    margin: 0 auto;
+}
+   .rates h1 {
+    display: block;
+    font-size: 30px;
+    font-family: "RobotoLight";
+    color: rgba(0, 0, 0, 0.2);
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.4;
+    padding-top: 50px;
+} 
+    .two ul {
+    width: 100%;
+    padding: 0;
+}
+    .two h2 {
+    overflow: hidden;
+    font-size: 42px;
+    font-family: "RobotoBold";
+    color: rgb(51, 51, 51);
+    margin: 0 auto;
+    padding-bottom: 11px;
+}
+    .two p {
+    padding-top: 50px;
+    font-size: 29px;
+    font-family: "RobotoMedium";
+    color: rgb(51, 51, 51);
+    margin: 0 auto;
+}
+    .progg .dva {
+        display: none;
+    }
+  .progg .dva img {
+   display: none;
+}
+    .progg .odin {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    display: inline-block;
+}
+    #works11 li p {
+    width: 65%;
+    font-size: 18px;
+    font-family: "RobotoRegular";
+    color: rgb(51, 51, 51);
+    vertical-align: top;
+}
+    .progg .odin h3 {
+    padding-top: 10px;
+    text-align: left;
+    margin: 0 auto;
+    font-size: 24px;
+    font-family: "RobotoMedium";
+    color: rgb(0, 0, 0);
+}
+    .plan-left {
+        display: none;
+    }
+    .plan-right {
+    width: 100%;
+    height: 735px;
+    margin: 0 0 0 0;
+    display: inline-block;
+    padding: 0;
+    overflow: hidden;
+}
+    .plan-right h1 {
+    padding-top: 30px;
+    font-size: 30px;
+    font-family: "RobotoMedium";
+    color: rgb(51, 51, 51);
+    text-align: left;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+    .questions {
+    width: 100%;
+    position: relative;
+    z-index: 20;
+    vertical-align: top;
+    background-size: cover;
+    padding-top: 50px;
+}
+    .end{
+          background: #fff url(img/22.png) no-repeat;
+    width: 100%;
+    background-position: center;
+    top: -340px;
+    height: 1250px;
+    z-index: -10;
+    position: absolute;
+}
+    .types2 li {
+    display: inline-block;
+    width: 49.333333%;
+    margin-left: -6px;
+    list-style: none outside none;
+    margin: 0 auto;
+    vertical-align: top;
+}
+    .types2 li img {
+    display: block;
+    margin: 0 auto;
+    width: 70px;
+}
+    .types2 li p {
+    width: 82%;
+    margin: 0 auto;
+    font-size: 18px;
+    font-family: "RobotoLight";
+    color: rgb(51, 51, 51);
+    line-height: 1.556;
+    text-align: center;
+    vertical-align: top;
+}
+    
+}
+
+
+/*======================================PLAN=================================================================================================*/
+
+@media screen and (min-width: 391px) and (max-width: 599px) {
+   .progg .wrapp {
+    
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding-top: 50px;
+    position: relative;
+    z-index: 10;
+    vertical-align: top;
+}
+    .wrapper {
+        width: 98%;
+        padding: 0;
+        margin: 0 auto;
+    }
+    .wrapp {
+        width: 98%;
+        padding: 0;
+         margin: 0 auto;
+    }
+    .nat-f {
+        display: none;
+    }
+    .progg .dva {
+        display: none;
+    }
+    .types ul {
+        list-style: none outside none;
+        width: 100%;
+        padding: 0;
+        text-align: center;
+    }
+    .types2 ul {
+        list-style: none outside none;
+        width: 100%;
+        padding: 0;
+         text-align: center;
+    }
+    .types li p {
+        width: 100%;
+        margin: 0 auto;
+        font-size: 15px;
+        font-family: "Roboto";
+        color: rgb(51, 51, 51);
+        line-height: 1.35;
+        text-align: center;
+    }
+    .types li {
+    display: inline-block;
+    width: 49.333333%;
+    margin-left: -6px;
+       
+}
+    .feed-left {
+        display: block;
+        width: 97%;
+        margin-right: 2%;
+    }
+    .feed-right {
+        display: block;
+        width: 100%;
+        margin-left: 10%;
+         padding-top: 50px;
+    }
+    .types2 li p {
+        width: 100%;
+        margin: 0 auto;
+        font-size: 15px;
+        font-family: "RobotoLight";
+        color: rgb(51, 51, 51);
+        line-height: 1.556;
+        text-align: left;
+    }
+    .preims .preimss p {
+        padding: 0;
+        overflow: hidden;
+        font-size: 8px;
+        font-family: "Roboto";
+        color: #fff;
+        text-align: center;
+        line-height: 1.313;
+        text-transform: none;
+        -moz-transform: matrix( 1.00232018561485, 0, 0, 1, 0, 0);
+        -webkit-transform: matrix( 1.00232018561485, 0, 0, 1, 0, 0);
+        -ms-transform: matrix( 1.00232018561485, 0, 0, 1, 0, 0);
+    }
+    .preims .preimss {
+        width: 30%;
+        list-style-type: none;
+        margin-left: -15px;
+    }
+    .two ul {
+    width: 100%;
+    padding: 0;
+}
+    .progg .dva img {
+   display: none;
+}
+    .progg .odin {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    display: inline-block;
+}
+    #works11 li p {
+    width: 65%;
+    font-size: 18px;
+    font-family: "RobotoRegular";
+    color: rgb(51, 51, 51);
+    vertical-align: top;
+}
+    .plan-right h1 {
+    padding-top: 60px;
+    font-size: 30px;
+    font-family: "RobotoMedium";
+    color: rgb(51, 51, 51);
+    text-align: left;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+    .plan-right h1 {
+    padding-top: 60px;
+    font-size: 30px;
+    font-family: "RobotoMedium";
+    color: rgb(51, 51, 51);
+    text-align: left;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+    .plan-left {
+        display: none;
+    }
+    .plan-right {
+    width: 100%;
+    height: 735px;
+    margin: 0 0 0 0;
+    display: inline-block;
+    padding: 0;
+    overflow: hidden;
+}
+    .types2 li {
+    display: inline-block;
+    width: 49.333333%;
+    margin-left: -6px;
+    list-style: none outside none;
+    margin: 0 auto;
+}
+    .questions {
+    width: 100%;
+    position: relative;
+    z-index: 20;
+    vertical-align: top;
+    background-size: cover;
+    padding-top: 50px;
+}
+     .end{
+          background: #fff url(img/22.png) no-repeat;
+    width: 100%;
+    background-position: center;
+    top: -340px;
+    height: 1250px;
+    z-index: -10;
+    position: absolute;
+}
+    .form-vk {
+    display: block;
+    border-radius: 30px;
+    border: 1px #436eab solid;
+    text-align: center;
+    color: #436eab;
+    font-size: 14px;
+    padding: 20px 15px 20px 15px;
+    margin-top: 20px;
+    background: url(img/vk.png) center left no-repeat;
+    background-position: 22px 22px;
+    text-decoration: none;
+}
+    .types2 li {
+    display: inline-block;
+    width: 49.333333%;
+    margin-left: -6px;
+    list-style: none outside none;
+    margin: 0 auto;
+    vertical-align: top;
+}
+    .types2 li img {
+    display: block;
+    margin: 0 auto;
+    width: 70px;
+}
+    .types2 li p {
+    width: 82%;
+    margin: 0 auto;
+    font-size: 18px;
+    font-family: "RobotoLight";
+    color: rgb(51, 51, 51);
+    line-height: 1.556;
+    text-align: center;
+    vertical-align: top;
+}
+
+}
+
+
+/*======================================PLAN=================================================================================================*/
+
+@media screen and (min-width: 600px) and (max-width: 1099px) {
+    .progg .wrapp {
+    padding: 0 20px 0 10px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding-top: 100px;
+    position: relative;
+    z-index: 10;
+    vertical-align: top;
+}
+    .wrapper {
+        width: 98%;
+        padding: 0;
+        margin: 0 auto;
+    }
+    .wrapp {
+        width: 98%;
+       margin: 0 auto;
+    }
+    .nat-f {
+        display: none;
+    }
+    .types2 ul {
+        list-style: none outside none;
+        width: 90%;
+    }
+    .types ul {
+        list-style: none outside none;
+        width: 90%;
+    }
+    .preims .preimss p {
+        padding: 0;
+        overflow: hidden;
+        font-size: 9px;
+        font-family: "Roboto";
+        color: #fff;
+        text-align: center;
+        line-height: 1.313;
+        text-transform: none;
+        -moz-transform: matrix( 1.00232018561485, 0, 0, 1, 0, 0);
+        -webkit-transform: matrix( 1.00232018561485, 0, 0, 1, 0, 0);
+        -ms-transform: matrix( 1.00232018561485, 0, 0, 1, 0, 0);
+    }
+    .two ul {
+    width: 80%;
+    padding: 0;
+}
+    
+    #works11 li p {
+    width: 60%;
+    font-size: 18px;
+    font-family: "RobotoRegular";
+    color: rgb(51, 51, 51);
+    vertical-align: top;
+}
+.progg.progg .odin2 h1 {
+    font-size: 40px;
+    font-family: "RobotoMedium";
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    position: inherit;
+    top: 0;
+    margin: 0 0 0 15px;
+    vertical-align: top;
+}
+    .plan-right h1 {
+    padding-top: 60px;
+    font-size: 30px;
+    font-family: "RobotoMedium";
+    color: rgb(51, 51, 51);
+    text-align: left;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+    .feed-right {
+    display: block;
+    width: 100%;
+         padding-top: 50px;
+   
+}
+    .back-form {
+    display: block;
+    width: 50%;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0px 20px 40px rgba(122,122,122,0.3);
+    padding: 40px 20px;
+        margin: 0 auto;
+   
+}
+    .feed-left {
+    display: block;
+    width: 100%;
+   
+        margin: 0 auto;
+    
+}
+    .cont-text {
+        width: 50%;
+    display: block;
+    border: 1px #b0b0b0 dotted;
+    padding: 20px 20px 20px 0;
+    color: #333333;
+    font-size: 15px;
+    line-height: 23px;
+        margin: 0 auto;
+        text-align: center;
+}
+    .questions {
+    width: 100%;
+    position: relative;
+    z-index: 20;
+    vertical-align: top;
+    background-size: cover;
+    padding-top: 50px;
+}
+    .end{
+          background: #fff url(img/22.png) no-repeat;
+    width: 100%;
+    background-position: center;
+    top: -340px;
+    height: 1250px;
+    z-index: -10;
+    position: absolute;
+}
+    .types2 li {
+    display: inline-block;
+    width: 32.333333%;
+    margin-left: -6px;
+    list-style: none outside none;
+    margin: 0 auto;
+    vertical-align: top;
+}
+    .types2 li img {
+    display: block;
+    margin: 0 auto;
+    width: 70px;
+}
+    .types2 li p {
+    width: 82%;
+    margin: 0 auto;
+    font-size: 18px;
+    font-family: "RobotoLight";
+    color: rgb(51, 51, 51);
+    line-height: 1.556;
+    text-align: center;
+    vertical-align: top;
+}
+    
+}
+
+
+/*======================================PLAN=================================================================================================*/
+
+@media screen and (min-width: 1100px) {
+    .wrapp {
+        width: 1100px;
+        padding: 0 20px 0 10px;
+        box-sizing: border-box;
+        margin: 0 auto;
+    }
+    .wrapper {
+        width: 1100px;
+        box-sizing: border-box;
+        margin: 0 auto;
+        vertical-align: top;
+    }
+    .progg .wrapp {
+        padding: 0 20px 0 10px;
+        box-sizing: border-box;
+        margin: 0 auto;
+        padding-top: 100px;
+        position: relative;
+        z-index: 10;
+        vertical-align: top;
+    }
+    .cont-text img {
+        display: block;
+        float: left;
+        margin-right: 30px;
+        margin-left: -50px;
+        background: #fff;
+        border: 10px #fff solid;
+    }
+    .end{
+          background: #fff url(img/22.png) no-repeat;
+    width: 100%;
+    background-position: center;
+    top: -500px;
+    height: 1260px;
+    z-index: -10;
+    position: absolute;
+}
+    .types2 ul {
+    list-style: none outside none;
+    width: 100%;
+        padding: 0;
+}
+    .types2 li {
+    display: inline-block;
+    width: 32.333333%;
+    margin-left: -6px;
+    list-style: none outside none;
+    margin: 0 auto;
+    vertical-align: top;
+}
+    .types2 li img {
+    display: block;
+    margin: 0 auto;
+    width: 70px;
+}
+    .types ul {
+    list-style: none outside none;
+    width: 100%;
+        padding: 0;
+}
+    .types2 li p {
+    width: 82%;
+    margin: 0 auto;
+    font-size: 18px;
+    font-family: "RobotoLight";
+    color: rgb(51, 51, 51);
+    line-height: 1.556;
+    text-align: center;
+    vertical-align: top;
+}
+}

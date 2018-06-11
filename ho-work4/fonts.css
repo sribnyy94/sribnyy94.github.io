@@ -1,0 +1,42 @@
+@font-face {
+	font-family: 'OpenSansBold';
+	src: url('fonts/OpenSansBold/OpenSansBold.eot?') format('eot'), 
+	    url('fonts/OpenSansBold/OpenSansBold.woff') format('woff'), 
+	     url('fonts/OpenSansBold/OpenSansBold.ttf')  format('truetype');
+}
+
+@font-face {
+	font-family: 'OpenSansItalic';
+	src: url('fonts/OpenSansItalic/OpenSansItalic.eot?') format('eot'), 
+	    url('fonts/OpenSansItalic/OpenSansItalic.woff') format('woff'), 
+	     url('fonts/OpenSansItalic/OpenSansItalic.ttf')  format('truetype');
+}
+@font-face {
+	font-family: 'OpenSansLight';
+	src: url('fonts/OpenSansLight/OpenSansLight.eot?') format('eot'), 
+	    url('fonts/OpenSansLight/OpenSansLight.woff') format('woff'), 
+	     url('fonts/OpenSansLight/OpenSansLight.ttf')  format('truetype');
+}
+@font-face {
+	font-family: 'OpenSansRegular';
+	src: url('fonts/OpenSansRegular/OpenSansRegular.eot?') format('eot'), 
+	    url('fonts/OpenSansRegular/OpenSansRegular.woff') format('woff'), 
+	     url('fonts/OpenSansRegular/OpenSansRegular.ttf')  format('truetype');
+}
+@font-face {
+	font-family: 'OpenSansSemiBold';
+	src: url('fonts/OpenSansSemiBold/OpenSansSemiBold.eot?') format('eot'), 
+	    url('fonts/OpenSansSemiBold/OpenSansSemiBold.woff') format('woff'), 
+	     url('fonts/OpenSansSemiBold/OpenSansSemiBold.ttf')  format('truetype');
+}
+@font-face {
+	font-family: 'ChampagneLimousinesBold';
+	src: 
+	     url('fonts/ChampagneLimousinesBold.ttf')  format('truetype');
+}
+@font-face {
+	font-family: 'FreestyleScript';
+	src: 
+	     url('fonts/10036.ttf')  format('truetype');
+}
+
